@@ -1,0 +1,14 @@
+{
+  "name": "wagnersza-zabbix_agent",
+  "version": "0.1.0",
+  "author": "wagnersza",
+  "summary": "Zabbix Agent",
+  "license": "Apache 2.0",
+  "source": "https://github.com/wagnersza/zabbix_agent",
+  "project_page": "https://github.com/wagnersza/zabbix_agent",
+  "issues_url": "https://github.com/wagnersza/zabbix_agent/issues",
+  "dependencies": [
+    {"name": "puppetlabs-stdlib", "version_range": ">= 2.5.0"},
+    {"name": "puppetlabs-apt", "version_range": ">= 1.4.0"}
+  ]
+}
